@@ -17,8 +17,8 @@ This deluxe package is for anyone interested in making virtual productions over 
 <a href="https://i.imgur.com/fLPFA8h.jpg">
   <img alt="pic5" target="_blank" src="https://i.imgur.com/fLPFA8h.jpg" height="190" width="32%">
 </a>
-<a href="https://i.imgur.com/tdrdWO2.jpg">
-  <img alt="pic6" target="_blank" src="https://i.imgur.com/tdrdWO2.jpg" height="190" width="32%">
+<a href="https://i.imgur.com/m4HfFlb.jpg">
+  <img alt="pic6" target="_blank" src="https://i.imgur.com/m4HfFlb.jpg" height="190" width="32%">
 </a>
 
 You can swap out the slides once you have setup a Unity project and imported the package. This is used as a real-time production environment from which we capture the output with [OBS](https://obsproject.com). 
