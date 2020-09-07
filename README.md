@@ -26,7 +26,7 @@ This package works with other custom packages in Unity3d. Please read and follow
 
 **Important**: Include Standard Assets / [VRChat SDK](https://docs.vrchat.com/docs/setting-up-the-sdk) before importing package!
 
-1. Create new Unity Project with version 2017.4.28f1 (or current version VRC runs on)
+1. Create new Unity Project with [current version](https://docs.vrchat.com/docs/current-unity-version) VRChat uses (Unity 2018.4.20f1).
 2. **First** import the [VRC SDK](https://docs.vrchat.com/docs/setting-up-the-sdk) to the project
 3. Save Scene
 4. Import the camera package, drag prefab into the scene
