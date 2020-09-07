@@ -2,7 +2,15 @@
 
 This deluxe package is for anyone interested in making virtual productions over the network inside [Unity](https://unity.com) and [VRChat](https://vrchat.com). You can create your own set or sound stage and use this camera system to help you speed up production with access to switching 10 cameras, a camera crane with controls, and 12 overlay slides. 
 
-![](https://i.imgur.com/FgvsxqF.jpg)
+<a href="https://i.imgur.com/9lAc6AE.png">
+  <img alt="pic1" target="_blank" src="https://i.imgur.com/9lAc6AE.png" height="190" width="32%">
+</a>
+<a href="https://i.imgur.com/9upoEUU.png">
+  <img alt="pic2" target="_blank" src="https://i.imgur.com/9upoEUU.png" height="190" width="32%">
+</a>
+<a href="https://i.imgur.com/UzVL9yD.png">
+  <img alt="pic3" target="_blank" src="https://i.imgur.com/UzVL9yD.png" height="190" width="32%">
+</a>
 
 You can swap out the slides once you have setup a Unity project and imported the package. This is used as a real-time production environment from which we capture the output with [OBS](https://obsproject.com). 
 
